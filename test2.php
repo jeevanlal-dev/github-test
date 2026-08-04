@@ -1,2 +1,1 @@
-<?php echo "jeevanlal";
-   echo "vignesh";?>
+<?php echo "jeevanlal"; ?>
